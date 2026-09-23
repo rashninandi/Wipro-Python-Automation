@@ -43,7 +43,7 @@ The resulting URL contained `/inventory.html`, confirming that the login was suc
 The following screenshot shows the successful execution of the Selenium automation:
 
 ![credentials](credentials.png)
-![login_page](login.png)
+![login_page](login_page.png)
 
 ## Observation
 
