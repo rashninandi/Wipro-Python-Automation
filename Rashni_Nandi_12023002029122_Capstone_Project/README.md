@@ -170,7 +170,13 @@ execution_report.html
 
 Open this file in a web browser to view the execution results.
 
-## 9. Result
+## 9. Execution Video
+
+Google Drive video link:
+
+**https://drive.google.com/file/d/1OuornpN_kZm1QGeAQbCTyTzn_h1PgA46/view?usp=drive_link**
+
+## 10. Result
 
 The e-commerce workflow was successfully automated using Selenium WebDriver with Python.
 
